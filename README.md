@@ -6,4 +6,4 @@ The analysis includes three parts:
 2. Serum metabolomic analysis in an abdominal aortic aneurysm (AAA) model induced by angiotensinII (AngII) infusion in ApoE-/- mice after CR diet (Figure 4 & S4.R). 
 3. The potential of glycerophospholipid metabolism pathway as a vascular disease risk factor in public human cohorts (Figure 5 & S5.R).
 
-The data file ()
+The related data files in the analysis are under request (contact wangheping@ibms.pumc.edu.cn).
